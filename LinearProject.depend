@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589128779 source:c:\users\dell\onedrive\desktop\linearproject\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+
